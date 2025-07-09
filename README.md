@@ -34,7 +34,7 @@ Curieux, autonome et toujours motivé à apprendre, je mets mon énergie au serv
 <br/>
 <br/>
 
-## 💻 Mes outils & langages
+## 💻 Les principaux outils et langages
 Mes compétences sont en constante amélioration. J'ai la chance d'exercer ce métier qui me permet d'apprendre chaque jour, d'autant plus que je suis passionné d'informatique depuis des années.
 
 ### Langages & Frontend
